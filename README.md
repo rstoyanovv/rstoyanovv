@@ -1,4 +1,15 @@
-### Hi there 👋
+<div id="header-gif" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width:"100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rostislav-stoyanov-sofia/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+## Hi there 👋
+### :technologist: About me
 
 <!--
 **rstoyanovv/rstoyanovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
