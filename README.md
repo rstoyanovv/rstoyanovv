@@ -11,14 +11,18 @@
 ## Hi there 👋
 ### :technologist: About me
 
+
+- 🔭 I’m currently working on some interesting APIs for educational purposes and I'm part from a team developing a ecological mobile application.
+
+- 🌱 I’m currently learning more of nodeJS, reactJS and also improve my knowledge on JavaScript and problem-solving thinking.
+
 <!--
 **rstoyanovv/rstoyanovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
