@@ -17,9 +17,8 @@
 - 🌱 I’m currently learning more of NodeJS, ReactJS and also improve my knowledge on JavaScript and problem-solving thinking.
 
 <br>
-<br>
-<br>
 
+### :arrow_right_hook: Some stats
 <div id="statistics" align="center">
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img width=50% src="https://github-readme-stats.vercel.app/api?username=rstoyanovv&show_icons=true&theme=tokyonigth"></a> -->
   <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstoyanovv&layout=compact&theme=tokyonight"></a>
